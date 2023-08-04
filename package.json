@@ -1,0 +1,34 @@
+{
+  "name": "pitchtool",
+  "version": "1.0.0",
+  "description": "Learning Project for spring boot, react and what else I can incorporate.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mar-Hein/Pitchtool.git"
+  },
+  "author": "mar-Hein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mar-Hein/Pitchtool/issues"
+  },
+  "homepage": "https://github.com/mar-Hein/Pitchtool#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^9.1.3",
+    "webpack": "latest",
+    "webpack-cli": "latest"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rest": "^2.0.0",
+    "styled-components": "^6.0.6"
+  }
+}
